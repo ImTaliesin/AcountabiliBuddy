@@ -39,6 +39,6 @@ Test the app's functionality manually by running it in development mode and veri
 Debug any issues that arise during testing and fix them accordingly.
 
 Packaging and distribution:
-Use Electron Builder to package your app into a distributable format (e.g., an installer or executable).
-Configure the build settings, icons, and metadata for your app.
+Use Electron Builder to package the app into a distributable format (e.g., an installer or executable).
+Configure the build settings, icons, and metadata for the app.
 Generate the packaged app and distribute it to users.
